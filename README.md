@@ -11,7 +11,9 @@ psycopg2-binary==2.8.3
 pytz==2019.2
 ```
 ## Authors
-* **Maciej Witos** * **Wojciech Szostak** * **Bartek Stokłosa**
+* **Maciej Witos** 
+* **Wojciech Szostak** 
+* **Bartek Stokłosa**
 
 
 
